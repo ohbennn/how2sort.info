@@ -1,0 +1,26 @@
+{
+  "name": "how2sort.info",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z23han/how2sort.info.git"
+  },
+  "author": "how2sort team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z23han/how2sort.info/issues"
+  },
+  "homepage": "https://github.com/z23han/how2sort.info#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7",
+    "nodemon": "^1.17.1",
+    "path": "^0.12.7"
+  }
+}
