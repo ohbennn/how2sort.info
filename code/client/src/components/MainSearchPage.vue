@@ -6,7 +6,7 @@
       <input v-model="item_name" placeholder="What waste is it?" autofocus>
       <br>
       <select v-model="selected_area">
-        <option disabled value="">Please select one</option>
+        <option disabled value="">Please select city</option>
         <option>Toronto</option>
         <option>Beijing</option>
         <option>New York</option>
